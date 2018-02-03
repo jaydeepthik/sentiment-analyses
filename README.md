@@ -11,3 +11,5 @@ the parent folder should contain the IMDB dataset that will be loaded using the 
 the driver.py is the trainer code for training the sentiment analizer
 
 store.py pickels the weights (classifier)
+
+app.py in movie classifier is the flask application that is to be run once the training is done for testing the custom reviews.
