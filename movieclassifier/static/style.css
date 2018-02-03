@@ -1,0 +1,25 @@
+body{
+	font-family: verdana;
+	width: 600px;
+}
+#button{
+	padding:20px;
+	border-radius: 10px;
+	background-color: lightblue;
+	margin-top: 4px;
+	
+}
+#spbutton{
+	border-radius: 5px;
+	padding: 5px;
+	font-family: verdana;
+	box-shadow: 2px 2px 2px;
+
+}
+div{
+	background-color: cyan;
+	border-radius: 5px;
+	padding: 5px;
+	text-aligh:centre;
+}
+
